@@ -11,17 +11,17 @@ Les outils mis en oeuvre :
 -d'ouvrir un fichier. 
 -crée un niuveau fichier. 
 -enregistrer un fichier. 
--enregistrer sous un fichier.
+-enregistrer sous un fichier. 
 -quitter l'application. 
 
 2. Creation d'un menu déroulant "Editer" avec le composant "MenuStrip" qui permet:
 -d'Annuler une saisie. 
 -Rétablir une saisie. 
 -Copier. 
--Coller.
+-Coller. 
 -Couper. 
 
-3.Une barre de Recherche.
+3. Une barre de Recherche.
 
 ## Réalisation ##
 
