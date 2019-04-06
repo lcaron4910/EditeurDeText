@@ -23,7 +23,7 @@ Les outils mis en oeuvre :
 - Coller. 
 - Couper. 
 
-[url=http://www.noelshack.com/2019-14-6-1554565984-img-20190406-095804.jpg][img]http://image.noelshack.com/minis/2019/14/6/1554565984-img-20190406-095804.png[/img][/url]
+<a href="http://www.noelshack.com/2019-14-6-1554565984-img-20190406-095804.jpg"><img src="http://image.noelshack.com/minis/2019/14/6/1554565984-img-20190406-095804.png" border="0" alt="1554565984-img-20190406-095804.jpg - envoi d'image avec NoelShack" title="1554565984-img-20190406-095804.jpg"/></a>
 
 3. Une barre de Recherche.
 
