@@ -8,18 +8,18 @@ Les outils mis en oeuvre :
 * Visual studio.
 
 1. Creation d'un menu déroulant "Fichier" avec le composant "MenuStrip" qui permet:
--d'ouvrir un fichier. 
--crée un niuveau fichier. 
--enregistrer un fichier. 
--enregistrer sous un fichier. 
--quitter l'application. 
+- d'ouvrir un fichier. 
+- crée un niuveau fichier. 
+- enregistrer un fichier. 
+- enregistrer sous un fichier. 
+- quitter l'application. 
 
 2. Creation d'un menu déroulant "Editer" avec le composant "MenuStrip" qui permet:
--d'Annuler une saisie. 
--Rétablir une saisie. 
--Copier. 
--Coller. 
--Couper. 
+- d'Annuler une saisie. 
+- Rétablir une saisie. 
+- Copier. 
+- Coller. 
+- Couper. 
 
 3. Une barre de Recherche.
 
