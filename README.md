@@ -1,6 +1,6 @@
 # EditeurDeText
 
-Présentation du projet: le but est de réaliser un petit éditeur de texte permettant d'éxecuter les memes fonction que le bloc note
+Présentation du projet: le but est de réaliser un petit éditeur de texte.
 
 Les outils mis en oeuvre :
 
@@ -68,7 +68,6 @@ if (sf_save.ShowDialog() == DialogResult.OK)
 }
 ```
 
-- ListBox :  Recupère le nom des fenêtres crée.
 
 - menu Editer
 1. -Bouton Couper: Utilisation de la méthode "Cut".
