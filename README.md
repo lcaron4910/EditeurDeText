@@ -16,7 +16,7 @@ Les outils mis en oeuvre :
 
 <a href="http://www.noelshack.com/2019-14-6-1554566333-img-20190406-095754.jpg"><img src="http://image.noelshack.com/minis/2019/14/6/1554566333-img-20190406-095754.png" border="0" alt="1554566333-img-20190406-095754.jpg - envoi d'image avec NoelShack" title="1554566333-img-20190406-095754.jpg"/></a>
 
-
+![EditeurFichier.png](http://image.noelshack.com/fichiers/2019/14/6/1554566333-img-20190406-095754.jpg)
 2. Creation d'un menu déroulant "Editer" avec le composant "MenuStrip" qui permet:
 - d'Annuler une saisie. 
 - Rétablir une saisie. 
