@@ -2,8 +2,6 @@
 
 Présentation du projet: le but est de réaliser un petit éditeur de texte permettant d'éxecuter les memes fonction que le bloc note
 
-![EditeurText.png](http://image.noelshack.com/fichiers/2019/14/6/1554537607-capture.png)
-
 Les outils mis en oeuvre :
 
 * git.
@@ -106,4 +104,4 @@ if (sf_save.ShowDialog() == DialogResult.OK)
 
 
 ## Rendu Final ##
-![Final.png](http://image.noelshack.com/fichiers/2018/47/7/1543155963-capturefinal.png)
+![EditeurText.png](http://image.noelshack.com/fichiers/2019/14/6/1554537607-capture.png)
