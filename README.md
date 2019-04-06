@@ -13,7 +13,7 @@ Les outils mis en oeuvre :
 - enregistrer un fichier. 
 - enregistrer sous un fichier. 
 - quitter l'application. 
-
+<a href="http://www.noelshack.com/2019-14-6-1554566333-img-20190406-095754.jpg"><img src="http://image.noelshack.com/minis/2019/14/6/1554566333-img-20190406-095754.png" border="0" alt="1554566333-img-20190406-095754.jpg - envoi d'image avec NoelShack" title="1554566333-img-20190406-095754.jpg"/></a>
 ![EditeurText.png](http://image.noelshack.com/fichiers/2019/14/6/1554566333-img-20190406-095754.jpg)
 
 
