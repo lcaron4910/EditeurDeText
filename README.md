@@ -13,7 +13,8 @@ Les outils mis en oeuvre :
 - enregistrer un fichier. 
 - enregistrer sous un fichier. 
 - quitter l'application. 
-![EditeurText.png](http://image.noelshack.com/fichiers/2019/14/6/1554565926-img-20190406-095754.jpg)
+
+![MenuFichier.png](http://image.noelshack.com/fichiers/2019/14/6/1554565926-img-20190406-095754.jpg)
 
 2. Creation d'un menu déroulant "Editer" avec le composant "MenuStrip" qui permet:
 - d'Annuler une saisie. 
@@ -21,7 +22,8 @@ Les outils mis en oeuvre :
 - Copier. 
 - Coller. 
 - Couper.
-![EditeurText.png](http://image.noelshack.com/fichiers/2019/14/6/1554565984-img-20190406-095804.jpg)
+
+![MenuEditer.png](http://image.noelshack.com/fichiers/2019/14/6/1554565984-img-20190406-095804.jpg)
 
 3. Une barre de Recherche.
 
