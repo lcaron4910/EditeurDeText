@@ -21,7 +21,7 @@ Les outils mis en oeuvre :
 - Rétablir une saisie. 
 - Copier. 
 - Coller. 
-- Couper.
+- Couper. 
 
 ![MenuEditer.png](http://image.noelshack.com/fichiers/2019/14/6/1554565984-img-20190406-095804.jpg)
 
