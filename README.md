@@ -9,7 +9,7 @@ Les outils mis en oeuvre :
 
 1. Creation d'un menu déroulant "Fichier" avec le composant "MenuStrip" qui permet:
 - d'ouvrir un fichier. 
-- crée un niuveau fichier. 
+- crée un nouveau fichier. 
 - enregistrer un fichier. 
 - enregistrer sous un fichier. 
 - quitter l'application. 
